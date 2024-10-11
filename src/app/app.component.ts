@@ -9,5 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'custom-theme';
+  email : string = "daber.coding@gmail.com";
+  nim : string = "222102486";
+  nama : string = "Ari Susanto";
 }
